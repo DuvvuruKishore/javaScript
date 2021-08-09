@@ -1,0 +1,10 @@
+.clock{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-size: 80px;;
+    font-weight: 500;
+    background-color: aqua;
+    color: black;
+}

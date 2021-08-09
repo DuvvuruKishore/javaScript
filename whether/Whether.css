@@ -1,0 +1,26 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: turquoise;
+    height: 100vh;
+}
+
+.location {
+    height: 30vh;
+    width:50%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+    
+}
+.temperature{
+    height: 30vh;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
